@@ -1,1 +1,3 @@
-# presentations
+# Presenntations
+
+Data science related presentations
