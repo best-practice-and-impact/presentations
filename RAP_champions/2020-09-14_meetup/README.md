@@ -19,7 +19,7 @@ Slides from the following presentations can be found in this folder (or are else
 ## Calls to action
 
 You can help the network by getting involved in the following:
-* (sign up)[https://www.smartsurvey.co.uk/s/IVKSJR/] to be a RAP peer reviewer or to have your RAP peer reviewed!
+* [sign up](https://www.smartsurvey.co.uk/s/IVKSJR/) to be a RAP peer reviewer or to have your RAP peer reviewed!
 * remember to send out the next iteration of the Coding in Analysis and Research Survey (CARS), when it's released on the 1st October
 * get in touch with Duncan G about your experiences publishing on GOV.UK
 * if you have any thoughts on where the RAP Champions should be focussing next, get in touch with [Alexander](mailto:alexander.newton@ons.gov.uk)
