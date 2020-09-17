@@ -1,3 +1,3 @@
 # Presentations
 
-Data science related presentations
+Presentations from Best Practice and Impact division events.
